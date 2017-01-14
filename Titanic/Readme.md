@@ -1,5 +1,7 @@
 
-# Contains python scripts used in this competition [Titanic: machine learning from disaster] (https://www.kaggle.com/c/titanic)
+# Machine learning and neural network based model for predicting survival in titanic
+
+## Contains python scripts used in this competition [Titanic: machine learning from disaster] (https://www.kaggle.com/c/titanic)
 
 There are two different approaches used to predict the survival on Titanic. 
 
